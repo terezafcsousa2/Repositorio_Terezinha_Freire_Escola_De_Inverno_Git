@@ -1,0 +1,11 @@
+##Versão 1
+  Estou muito feliz por participar da escola de inverno.
+Tal participação me proporcionou aprender várias coisas
+e conhecer pessoas novas, ainda que não seja pessoalmente.
+A aula de hoje foi boa para rever a minha página no git e confesso
+que está bastante desatualizada, espero que agora possa atualizar 
+várias coisas e modificar o meu perfil com minhas últimas experiências
+e atualizar o meu status para aluno do mestrado UFF.
+Estou ansiosa para começar os estudos e poder ampliar mais ainda 
+os meus conhecimentos, e quem sabe quando for possível conhecer o
+Instituto de Computação.
