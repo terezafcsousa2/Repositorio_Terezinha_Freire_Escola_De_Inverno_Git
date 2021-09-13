@@ -1,0 +1,1 @@
+# Repositorio_Terezinha_Freire_Escola_De_Inverno_Git
